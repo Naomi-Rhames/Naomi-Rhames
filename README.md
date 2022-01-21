@@ -11,30 +11,30 @@ To do:
 - [x] Setup database
 - [x] Setup Relationships/Models
 - [x] Setup Controllers
-- [] Add functionality to controllers
-- [] Add JWT Tokens/ User authentication
-- [] Setup Frontend
+- [ ] Add functionality to controllers
+- [ ] Add JWT Tokens/ User authentication
+- [ ] Setup Frontend
 
 
 ### Tweeter 📲💬
 To do:
 
-- [] add a edit feature to edit a tweet
-- [] add a delete feature to delete a tweet
-- [] Add more CSS
+- [ ] add a edit feature to edit a tweet
+- [ ] add a delete feature to delete a tweet
+- [ ] Add more CSS
 
 ### Poetry Heaven📝📚
 To do:
 
-- [] Add user authentication 
-- [] Fix backend issue
-- [] Add a delete function to delete a poem
+- [ ] Add user authentication 
+- [ ] Fix backend issue
+- [ ] Add a delete function to delete a poem
 
 ### The Vet Hospital🐶🐩🐾
 To do:
 
-- [] Add CSS
-- [] Fix Google Oauth
+- [ ] Add CSS
+- [ ] Fix Google Oauth
 
 ### 🤓I’m currently learning:
 - Python
@@ -43,7 +43,6 @@ To do:
 
 Personal Site: In progress.... comming soon
 
-Linkedin: 
 
 <!--
 **Naomi-Rhames/Naomi-Rhames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
