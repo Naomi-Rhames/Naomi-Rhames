@@ -1,7 +1,7 @@
 ### Welcome!
 
 - 🤍 Fun fact: I love to play the piano and I love my puppy... I think I love my puppy more though (he's cuter and fluffier)! ✨
-- 🦋 Want to reach me? You can either email or slack me! ✨
+- 🦋 Want to reach me? You can either [Email](naomirhames2020@gmail.com) me or add me on [Linkedin](https://www.linkedin.com/in/naomi-rhames-8231581b5/)! ✨
 
 I am currently working on:
 
@@ -41,7 +41,9 @@ To do:
 - Algorithms and Data structures
 
 
+Personal Site: In progress.... comming soon
 
+Linkedin: 
 
 <!--
 **Naomi-Rhames/Naomi-Rhames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
