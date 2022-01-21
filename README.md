@@ -19,8 +19,8 @@ To do:
 ### Tweeter 📲💬
 To do:
 
-- [] add a edit a tweet
-- [] delete a tweet
+- [] add a edit feature to edit a tweet
+- [] add a delete feature to delete a tweet
 - [] Add more CSS
 
 ### Poetry Heaven📝📚
