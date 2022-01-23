@@ -11,7 +11,7 @@ To do:
 - [x] Setup database
 - [x] Setup Relationships/Models
 - [x] Setup Controllers
-- [ ] Add functionality to controllers
+- [ ] Fully functional controllers
 - [ ] Add JWT Tokens/ User authentication
 - [ ] Setup Frontend
 
