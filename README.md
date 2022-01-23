@@ -14,7 +14,9 @@ To do:
 - [ ] Fully functional controllers
 - [ ] Add JWT Tokens/ User authentication
 - [x] Setup Frontend
-- [ ] Connect Data from Fronted to Backend and vice versa
+- [ ] Connect data from Fronted to Backend and vice versa
+- [ ] Have all components and containers setup
+ 
 
 
 ### Tweeter 📲💬
