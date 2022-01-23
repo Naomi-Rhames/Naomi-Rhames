@@ -13,7 +13,8 @@ To do:
 - [x] Setup Controllers
 - [ ] Fully functional controllers
 - [ ] Add JWT Tokens/ User authentication
-- [ ] Setup Frontend
+- [x] Setup Frontend
+- [ ] Connect Data from Fronted to Backend and vice versa
 
 
 ### Tweeter 📲💬
