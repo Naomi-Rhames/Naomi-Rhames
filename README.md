@@ -16,6 +16,8 @@ To do:
 - [x] Setup Frontend
 - [ ] Connect data from Fronted to Backend and vice versa
 - [ ] Have all components and containers setup
+- [ ] Add to Readme
+- [ ] Add CSS
  
 
 
