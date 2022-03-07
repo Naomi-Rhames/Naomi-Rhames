@@ -13,8 +13,8 @@ To do:
 - [ ] Setup Controllers
 
 ### Family Social 👨‍👩‍👧‍👦💕
-Group Project
-To do:
+- Group Project
+ To do:
 
 - [x] Setup database
 - [x] Setup Relationships/Models
