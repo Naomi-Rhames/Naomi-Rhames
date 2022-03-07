@@ -5,7 +5,15 @@
 
 I am currently working on:
 
+### Anti-Self Sabatage(A.S.S.)
+To do:
+
+- [ ] Fully Setup Database
+- [ ] Setup Relationships
+- [ ] Setup Controllers
+
 ### Family Social 👨‍👩‍👧‍👦💕
+Group Project
 To do:
 
 - [x] Setup database
@@ -18,8 +26,6 @@ To do:
 - [ ] Have all components and containers setup
 - [ ] Add to Readme
 - [ ] Add CSS
- 
-
 
 ### Tweeter 📲💬
 To do:
@@ -44,7 +50,7 @@ To do:
 ### 🤓I’m currently learning:
 - Python
 - Algorithms and Data structures
-
+- C# and .Net framework
 
 Personal Site: In progress.... comming soon
 
