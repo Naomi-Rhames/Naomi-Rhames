@@ -12,7 +12,7 @@ To do:
 - [ ] Setup Relationships
 - [ ] Setup Controllers
 
-### Family Social (Group Project) 👨‍👩‍👧‍👦💕
+### Family Social 👨‍👩‍👧‍👦💕
 
  To do:
 
