@@ -10,7 +10,7 @@ To do:
 
 - [ ] Fully Setup Database
 - [ ] Setup Relationships
-- [ ] Setup Controllers
+- [ x ] Setup Controllers
 - [ ] Create Unit Tests
 
 ### Family Social 👨‍👩‍👧‍👦💕
