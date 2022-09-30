@@ -8,6 +8,7 @@ I am currently working on:
 ### Anti-Self Sabatage(A.S.S.) 
 To do:
 - [x] Set Affirmation Data table including seed data with API, controllers, models etc., routes
+- [ ] Redo backend for you to allow to import photos from your personal computer/device 
 - [ ] Fully Setup Database
 - [ ] Setup Relationships
 - [x] Setup Controllers
