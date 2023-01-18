@@ -5,6 +5,13 @@
 
 I am currently working on:
 
+### Sucessful People Meet(S.P.M )
+To do:
+- [ ] Create unit tests
+- [ ] Setup Profile Controller
+- [ ] Setup Profile Model
+
+
 ### Anti-Self Sabatage(A.S.S.) 
 To do:
 - [x] Set Affirmation Data table including seed data with API, controllers, models etc., routes
